@@ -7,5 +7,8 @@ As you can probably tell it's my first hackpad. It was designed with the intenti
 * Rotary Encoder
 * 7 Keys
 ## CAD Model
-For ease of printing it uses the standard base(tutorial) however redesigned to fit my parts. It was made wider, taller and the hole in the side for the microprocessor was relocated. The cutouts were adjusted accordingly to everything.
+For ease of printing it uses the standard base(tutorial) however redesigned to fit my parts. It was made wider, taller and the hole in the side for the microprocessor was relocated. The cutouts were adjusted accordingly to everything.(The outside is only reflective because that's the only way I could render it)
 <img width="2560" height="1045" alt="Untitled_2026-Jan-10_10-54-34AM-000_CustomizedView7685825512" src="https://github.com/user-attachments/assets/816150e3-3b0a-4654-af9d-3e9919e4ac83" />
+Made in Fusion 360
+## PCB
+My PCB was made in Kicad
