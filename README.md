@@ -18,11 +18,8 @@ My PCB was made in Kicad.
 #### PCB
 <img width="1132" height="813" alt="image" src="https://github.com/user-attachments/assets/8c7c1aa7-a22d-45b0-942f-ee31f0faf1fd" />
 ## Firmware
-This HackPad uses KMK firmware.
+This Hackpad uses KMK firmware.
 I haven't assigned specifics to the buttons as I will be doing that after the assembly.
-This is the only part which I'm completely unsure if it was done right, if no I would greatly appreciate help.
-## BOM
-This is a list of all the parts:
-* 7x Cherry MX Switch (preferably brown)
+This is the only part which I'm completely unsure if it was done right, if no I would greatly aprreciate help.
 
 
