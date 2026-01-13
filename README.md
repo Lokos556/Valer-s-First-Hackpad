@@ -11,7 +11,7 @@ For ease of printing it uses the standard base(tutorial) however redesigned to f
 <img width="2560" height="1045" alt="Untitled_2026-Jan-10_10-54-34AM-000_CustomizedView7685825512" src="https://github.com/user-attachments/assets/08120045-2070-4c41-97db-e96d57bbee9a" />
 
 
-<<img width="2560" height="1045" alt="Untitled_2026-Jan-13_03-17-31PM-000_CustomizedView4859203759" src="https://github.com/user-attachments/assets/b7ad45e9-157d-4057-9712-5666dbe435fb" />
+<img width="2560" height="1045" alt="Untitled_2026-Jan-13_03-17-31PM-000_CustomizedView4859203759" src="https://github.com/user-attachments/assets/b7ad45e9-157d-4057-9712-5666dbe435fb" />
 Made in Fusion 360
 ## PCB
 My PCB was made in Kicad.
