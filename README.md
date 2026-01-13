@@ -17,9 +17,13 @@ My PCB was made in Kicad.
 <img width="1688" height="1171" alt="image" src="https://github.com/user-attachments/assets/77ab05a3-fb9f-47c2-a910-959959f5b819" />
 #### PCB
 <img width="1132" height="813" alt="image" src="https://github.com/user-attachments/assets/8c7c1aa7-a22d-45b0-942f-ee31f0faf1fd" />
+
 ## Firmware
+
 This HackPad uses KMK firmware.
+
 I haven't assigned specifics to the buttons as I will be doing that after the assembly.
+
 This is the only part which I'm completely unsure if it was done right, if no I would greatly aprreciate help.
 
 
