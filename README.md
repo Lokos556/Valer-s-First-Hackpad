@@ -15,7 +15,9 @@ Made in Fusion 360
 My PCB was made in Kicad.
 #### Schematic
 <img width="1688" height="1171" alt="image" src="https://github.com/user-attachments/assets/77ab05a3-fb9f-47c2-a910-959959f5b819" />
+
 #### PCB
+
 <img width="1132" height="813" alt="image" src="https://github.com/user-attachments/assets/8c7c1aa7-a22d-45b0-942f-ee31f0faf1fd" />
 
 ## Firmware
