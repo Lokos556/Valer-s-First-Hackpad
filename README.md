@@ -13,7 +13,7 @@ For ease of printing it uses the standard base(tutorial) however redesigned to f
 
 <img width="2560" height="1045" alt="Untitled_2026-Jan-13_03-17-31PM-000_CustomizedView4859203759" src="https://github.com/user-attachments/assets/b7ad45e9-157d-4057-9712-5666dbe435fb" />
 Made in Fusion 360
-PCB
+## PCB
 My PCB was made in Kicad.
 #### Schematic
 <img width="1688" height="1171" alt="image" src="https://github.com/user-attachments/assets/77ab05a3-fb9f-47c2-a910-959959f5b819" />
