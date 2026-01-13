@@ -16,9 +16,9 @@ Made in Fusion 360
 ## PCB
 My PCB was made in Kicad.
 #### Schematic
-![Képernyőkép 2026-01-09 185206](https://github.com/user-attachments/assets/2871aac6-3007-4f8a-b88b-7a20577d4fa2)
+<img width="1688" height="1171" alt="image" src="https://github.com/user-attachments/assets/77ab05a3-fb9f-47c2-a910-959959f5b819" />
 #### PCB
-![Képernyőkép 2026-01-09 185300](https://github.com/user-attachments/assets/153f3224-faa1-4b38-978d-d2b8315c6fe7)
+<img width="1132" height="813" alt="image" src="https://github.com/user-attachments/assets/8c7c1aa7-a22d-45b0-942f-ee31f0faf1fd" />
 ## Firmware
 This HackPad uses KMK firmware.
 I haven't assigned specifics to the buttons as I will be doing that after the assembly.
