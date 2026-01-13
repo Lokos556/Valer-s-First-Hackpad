@@ -24,11 +24,5 @@ This is the only part which I'm completely unsure if it was done right, if no I 
 ## BOM
 This is a list of all the parts:
 * 7x Cherry MX Switch (preferably brown)
-* 7x Keycaps
-* The same screws and mounts the tutorial uses
-* 1x 128x32 0.91inch OLED screen
-* 1x Rotary Encoder
-* 1x XIAO RP2040
-* 1x Case (2 printed parts)
 
 
