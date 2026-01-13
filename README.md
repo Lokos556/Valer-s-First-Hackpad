@@ -23,9 +23,7 @@ My PCB was made in Kicad.
 ## Firmware
 
 This HackPad uses KMK firmware.
-
 I haven't assigned specifics to the buttons as I will be doing that after the assembly.
-
 This is the only part which I'm completely unsure if it was done right, if no I would greatly aprreciate help.
 
 
